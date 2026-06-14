@@ -1,3 +1,8 @@
+[![License: MIT](https://shields.io)](https://opensource.org)
+[![License: Solderpad SHL-2.1](https://shields.io)](https://solderpad.org)
+[![Language: Python 3.13](https://shields.io)](https://python.org)
+[![Status: Production-Ready](https://shields.io)](#)
+
 # Subnet Tablature
 
 An open-source, scalable fretboard architecture built on repeating 4-fret Subnet blocks and localized Gateway Markers, refactoring the physical fingerboard into an addressable [Subnet, Index] coordinate matrix.
