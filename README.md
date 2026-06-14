@@ -1,4 +1,4 @@
-markdown# Subnet Tablature
+# Subnet Tablature
 
 An open-source, scalable fretboard architecture built on repeating 4-fret Subnet blocks and localized Gateway Markers, refactoring the physical fingerboard into an addressable [Subnet, Index] coordinate matrix.
 
